@@ -1,0 +1,5 @@
+name: NBlogin
+version: '1.0-SNAPSHOT'
+main: com.shermservers.nblogin.NBlogin
+api-version: '1.17'
+load: STARTUP

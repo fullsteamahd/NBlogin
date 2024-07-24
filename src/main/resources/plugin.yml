@@ -1,0 +1,5 @@
+name: NBlogin
+version: '${version}'
+main: com.shermservers.nblogin.NBlogin
+api-version: '1.17'
+load: STARTUP
